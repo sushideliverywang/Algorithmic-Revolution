@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "18abd1be4782a6b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b63c1da63f0c85b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb56b28233889cea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "35.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "35"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22267f9212af63ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4dab3b3d32a2524",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3fd99cc20651efa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9fa7ede3b4f80a8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "44200d3c9eb71f9a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 229.5
+  },
+  "right": {
+    "id": "2f01442e3114dfc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e26b6f787dd93cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8622d1803e246d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "第一章.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "第一章 的反向链接列表"
+            }
+          },
+          {
+            "id": "d7369f7f1539fa18",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "第一章.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "第一章 的出链列表"
+            }
+          },
+          {
+            "id": "657793f9136d7d71",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b15a6444fa15704d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "6ac4ca3cd42a9320",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "第一章.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "第一章 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "eb56b28233889cea",
+  "lastOpenFiles": [
+    "33.md",
+    "34.md",
+    "35.md",
+    "21.md",
+    "manuscript.md",
+    "20.md",
+    "19.md",
+    "18.md",
+    "17.md",
+    "16.md",
+    "15.md",
+    "14.md",
+    "13.md",
+    "12.md",
+    "11.md",
+    "10.md",
+    "09.md",
+    "0-ChatGPT instruction.md",
+    "32.md",
+    "31.md",
+    "30.md",
+    "29.md",
+    "28.md",
+    "27.md",
+    "26.md",
+    "25.md",
+    "count.py",
+    "merge.py",
+    "0-Manuscript.pdf",
+    "00-count.py",
+    "00.pdf",
+    "novel_md_to_pdf.py",
+    "0.pdf",
+    "Untitled.base",
+    "0",
+    "1.pages",
+    "Untitled.canvas"
+  ]
+}
